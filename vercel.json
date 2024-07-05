@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "alias": [
+        "www.alexortiz201.com"
+    ],
+    "routes": [
+       { "src": "/(.*)", "status": 301, "headers": { "Location": "https://purpledreams.com/$1" }}
+    ]
+}
