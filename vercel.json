@@ -4,6 +4,6 @@
         "www.alexortiz201.com"
     ],
     "routes": [
-       { "src": "/(.*)", "status": 301, "headers": { "Location": "https://purpledreams.com/$1" }}
+       { "src": "/(.*)", "status": 301, "headers": { "Location": "https://purpledreams.io/$1" }}
     ]
 }
